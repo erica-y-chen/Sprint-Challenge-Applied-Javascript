@@ -31,14 +31,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+dom is the entire document/pshr that houses all the nodes and objects contained in the obdy of the code 
 
 2. What is an event?
+this is some kind of interaction happens to execute code in the js document (i.e when a user clicks a button, when the page is loaded, etc.)
 
 3. What is an event listener?
+this is the line of code that's looking for the specific interaction to trigger the event
 
 4. Why would we convert a NodeList into an Array?
+Because it gives you access to lots of helpful methods such as array.foreach, array.filter, etc. 
 
 5. What is a component?
+components are stand alone, reusable elemenst of code such as forms, images, and tables. 
 
 ### Git Set up
 
